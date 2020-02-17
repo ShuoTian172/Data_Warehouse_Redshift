@@ -1,4 +1,4 @@
-# Project 3: Data Warehouse Management With Amazon Redshift
+# Data Warehouse Management With Amazon Redshift
 
 <p align="center"><img src="images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
